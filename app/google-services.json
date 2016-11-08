@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905406701489",
+    "firebase_url": "https://ejemploadmob-948b3.firebaseio.com",
+    "project_id": "ejemploadmob-948b3",
+    "storage_bucket": "ejemploadmob-948b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905406701489:android:67404eb09ec922b9",
+        "android_client_info": {
+          "package_name": "co.edu.udea.compumovil.ejemploadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905406701489-8plls4mo9bn6k4urvbbu1pih745jip3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmPBtXz5qwce68fEUfP6IXWOtqSUEv12I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

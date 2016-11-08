@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EjemploAdMob</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="b_mostrar">Mostrar banner intersticial</string>
+    <!--
+    Un ID de Ad Unit es un identificador único que se atribuye a los espacios de tu app en
+    los que se muestran anuncios. Si tienes, por ejemplo, una app con dos actividades y en
+    cada una se muestra un banner, necesitas dos Ad Unit, cada una con su propio ID. Los ID
+    de Ad Unit de AdMob tienen la forma ca-app-pub-XXXXXXXXXXXXXXXX/NNNNNNNNNN.
+    -->
+</resources>
